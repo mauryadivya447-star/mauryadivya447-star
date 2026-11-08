@@ -38,7 +38,7 @@ I'm passionate about technology, programming, and building practical projects.
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/your-username/
-- Portfolio: Coming Soon
+-  Portfolio: https://mauryadivya447-star.github.io/personal-portfolio/
 
 ---
 
