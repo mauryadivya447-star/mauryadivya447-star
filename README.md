@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**mauryadivya447-star/mauryadivya447-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Divya Maurya 👋
 
-Here are some ideas to get you started:
+### BCA Student | Aspiring Software Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm passionate about technology, programming, and building practical projects.
+
+## 👩‍💻 About Me
+
+- 🎓 Pursuing BCA.
+- 💻 Interested in Software Development.
+- 🌱 Currently learning C, HTML, CSS and JavaScript.
+- 🚀 Building projects to improve my technical skills.
+- 🎯 Working towards becoming a skilled Software Developer.
+
+## 🛠️ My Tech Stack
+
+- C Programming
+- HTML5
+- CSS3
+- JavaScript
+- VS Code
+- Git & GitHub
+
+## 📌 My Projects
+
+- Personal Portfolio Website
+
+## 🎯 My Goals
+
+- Improve programming fundamentals.
+- Learn modern web development.
+- Build real-world applications.
+- Contribute to meaningful projects.
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/your-username/
+- Portfolio: Coming Soon
+
+---
+
+### Learning. Building. Growing. 🚀
